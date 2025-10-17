@@ -109,7 +109,9 @@ const SplashScreen = ({ navigation }) => {
         </View>
       </Animated.View>
 
-      <Text style={styles.copyright}>© 2025 CineMax. All rights reserved.</Text>
+      <Text style={styles.copyright}>
+        © 2025 Movies App. All rights reserved.
+      </Text>
     </View>
   );
 };
